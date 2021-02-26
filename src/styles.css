@@ -1,0 +1,40 @@
+body {
+    background-image: url('./assets/IMG_2703.jpg');
+    background-size: 18em;
+    background-repeat: repeat;
+  
+}
+#root {
+    font-family: 'Courier New', Courier, monospace;
+    color: #b794d6;
+}
+
+.header > img {
+    width: 80%;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.card {
+   margin: 3em;
+   background-color: #ffe3e9;
+}
+form {
+    display: flex;
+    justify-content: center;
+    color: #b794d6;
+}
+.btn {
+    background-color: #f7c50e;
+    color: #b794d6 ;
+}
+.chirpy-logo {
+    height: 50px;
+}
+.modal-content {
+    background-color: #ffe3e9;
+}
+.icon {
+    height: 50px;
+}
