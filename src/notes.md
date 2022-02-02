@@ -5,3 +5,5 @@
 
 // component based building 
 // components are building blocks of a website that is consistent 
+//learning more about react is super fun! 
+//hopping back in to add some more css
