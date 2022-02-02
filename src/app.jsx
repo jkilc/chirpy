@@ -41,7 +41,7 @@ index = Math.floor(Math.random() * images.length);
 
 
 
-
+//below are "fake tweets" as directed in the assignment 
 const App = () => {
     let [username, setUsername, newIcon] = useState("");
     let [msg, setMsg] = useState("");
