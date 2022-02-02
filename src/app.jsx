@@ -36,6 +36,7 @@ index = Math.floor(Math.random() * images.length);
 // basically what i am trying to do with the icons is that i wanted a random icon to generate for each
 // different chirp, i got it to randomize per page load but all of the chirps had the same icon rather
 //than one icon per cherp 
+//
 
 
 
