@@ -6,4 +6,4 @@ import './styles.css'
 
 
 ReactDOM.render(<App />, document.getElementById('root')) //this is a self closing tag? 
-// minimum amount to render page 
+// minimum amount to render page - 
